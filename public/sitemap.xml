@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    <loc>https://dailygolang.com/issues/issue-1/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/issues/</loc>
-    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    <loc>https://dailygolang.com/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/issues/markdown/</loc>
-    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    <loc>https://dailygolang.com/issues/</loc>
+    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dailygolang.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dailygolang.com/tags/</loc>
   </url>
 </urlset>
