@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Issues on Daily Golang | Daily and weekly newsletter about Go (Golang) programming language</title>
+    <link>http://localhost:1313/issues/</link>
+    <description>Recent content in Issues on Daily Golang | Daily and weekly newsletter about Go (Golang) programming language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/issues/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Golang - Issue #1</title>
+      <link>http://localhost:1313/issues/issue-1/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/issues/issue-1/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

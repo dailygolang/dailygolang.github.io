@@ -1,0 +1,9 @@
+*.lock
+
+**/*.DS_Store
+.env
+.env.production
+
+node_modules
+
+public/index.xml
